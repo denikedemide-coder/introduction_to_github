@@ -1,0 +1,1 @@
+Hi my name is ademide and basically this is my first time learning github. I am learning how to build AI. So we started to go with python, then to github.
